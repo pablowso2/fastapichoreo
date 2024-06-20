@@ -1,1 +1,1 @@
-web: fastapi run main.py
+web: fastapi run main.py --port 8080
